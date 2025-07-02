@@ -20,18 +20,6 @@
 
 ---
 
-## 📂 Project Structure
-
-FixItApp/
-├── assets/ # App icons & images
-├── screens/ # UI Screens
-│ └── serviceprovider/ # Service provider modules
-├── utils/ # Helper functions/hooks
-├── App.js # App entry point
-├── package.json # Project config
-└── .gitignore # Git ignore rules
----
-
 ## 🧑‍💻 Tech Stack
 
 | Area            | Technology     |
@@ -46,79 +34,80 @@ FixItApp/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repo
-```bash
+1. Clone the Repo:
 git clone https://github.com/m-hamza1/FixItApp.git
 cd FixItApp
 
-2. Install Dependencies
-bash
+2. Install Dependencies:
+yarn install
 # or
 npm install
 
-3. Run the App
-bash
+3. Run the App:
 yarn start
 # or
 npm start
 
-📱 Make sure Expo CLI or React Native setup is ready on your machine.
+> 📱 Make sure Expo CLI or React Native setup is ready on your machine.
 
-🧾 License
-This project is licensed under the MIT License.
+---
 
-🙌 Contributing
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Contributing
+
 Contributions are welcome. Open an issue or a pull request!
 
-📬 Contact
+---
+
+## 📬 Contact
+
 Developer: @m-hamza1
 📧 Email: hm8620730@gmail.com
 
-📸 Screenshots
-Add app screenshots here in future for better visibility.
-
 ---
 
-### ✅ 2. `.gitignore`
+## 📸 Screenshots
 
-📄 Create a file called `.gitignore` and paste:
+_Add app screenshots here in future for better visibility._
 
-Dependencies
+2. .gitignore
+
+# Dependencies
 node_modules/
 
-Expo
+# Expo
 .expo/
 .expo-shared/
 
-Logs
-.log
-npm-debug.log
+# Logs
+*.log
+npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-macOS system files
+# macOS system files
 .DS_Store
 
-Environment
+# Environment
 .env
 
----
-
-### ✅ 3. `LICENSE` (MIT License)
-
-📄 Create a file called `LICENSE` and paste:
+3. LICENSE (MIT)
 
 MIT License
 
-Copyright (c) 2025 m-hamza1
+Copyright (c) 2024 m-hamza1
 
-> You can copy full license from [MIT License on GitHub](https://choosealicense.com/licenses/mit/)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+...
+(Full text available at https://choosealicense.com/licenses/mit/)
 
----
-
-### ✅ Final Git Commands to Push
-
-```bash
-git add README.md .gitignore LICENSE
-git commit -m "Add professional documentation and license"
-git push
