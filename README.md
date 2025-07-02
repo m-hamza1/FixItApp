@@ -1,5 +1,3 @@
-📦 FixItApp – Professional GitHub Setup Files
-1. README.md
 # 🛠️ FixItApp
 
 **FixItApp** is a cross-platform mobile app that connects users with local service providers like electricians, plumbers, and technicians. Built in React Native, it simplifies job booking and service management through a clean UI and intuitive workflow.
