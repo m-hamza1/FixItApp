@@ -23,13 +23,13 @@
 ## 📂 Project Structure
 
 FixItApp/
-├── assets/                      # App icons & images
-├── screens/                     # UI Screens
-│   └── serviceprovider/         # Service provider modules
-├── utils/                       # Helper functions/hooks
-├── App.js                       # App entry point
-├── package.json                 # Project config
-└── .gitignore                   # Git ignore rules
+├── assets/ # App icons & images
+├── screens/ # UI Screens
+│ └── serviceprovider/ # Service provider modules
+├── utils/ # Helper functions/hooks
+├── App.js # App entry point
+├── package.json # Project config
+└── .gitignore # Git ignore rules
 
 ---
 
