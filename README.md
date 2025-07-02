@@ -19,7 +19,6 @@
 - 📱 Optimized for Mobile Screens
 
 ---
-
 ## 📂 Project Structure
 
 FixItApp/
@@ -30,7 +29,6 @@ FixItApp/
 ├── App.js # App entry point
 ├── package.json # Project config
 └── .gitignore # Git ignore rules
-
 ---
 
 ## 🧑‍💻 Tech Stack
